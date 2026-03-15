@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Eysh Bakar
 
-<!--
-**eyshbakar/eyshbakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Consultant & Tech Builder based in Doha, Qatar
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Building AI-powered tools, web automation scripts, and voice agents
+- Business consultant specializing in company formation & PRO services in Qatar
+- Working at **RAG Global Business Hub**
+- Passionate about Python, AI agents, and turning ideas into working products
+
+### Tech Stack
+
+`Python` `AI Agents` `Web Automation` `VS Code` `GitHub Pages` `APIs`
+
+### Current Focus
+
+- Developing AI voice agents and web automation tools
+- Hosting sites and scripts via GitHub Pages
+- Exploring new frameworks for building intelligent systems
+
+### Connect
+
+- Website: [ragroup.qa](https://ragroup.qa)
+- Location: Doha, Qatar
+
+---
+
+*Always building. Always learning.*
